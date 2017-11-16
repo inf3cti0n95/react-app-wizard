@@ -1,0 +1,20 @@
+{
+  "name": "react-app-wizard",
+  "version": "0.0.2",
+  "description": "React App made Easy",
+  "main": "index.js",
+  "repository": "https://github.com/inf3cti0n95/react-app-wizard.git",
+  "author": "Viraj Trivedi <inf3cti0n95@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.11.0",
+    "create-react-app": "^1.4.3",
+    "inquirer": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.32",
+    "@babel/preset-env": "^7.0.0-beta.32"
+  }
+}
